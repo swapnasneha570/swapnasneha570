@@ -2,7 +2,7 @@
 #### Student
 ![Student](https://media.licdn.com/dms/image/D4E16AQF9GUAf_85Ndw/profile-displaybackgroundimage-shrink_350_1400/0/1684085435684?e=1689811200&v=beta&t=T-OAvP1LdqXdotii5h8-Wr64VVgW9G8VJnQZhRWWBXo)
 
-I am Swapna Akter. I am 18 years old. I am a student of Diploma in Computer Teachnology,1st semester, studying in Dhaka Polytechnic Institute. I am currently learning freelancing. I have good knowledge in Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Canvas Design, Facebook Marketing, LinkedIn Marketing etc.
+I am Swapna Akter. I am 18 years old. I am a student of Diploma in Computer Teachnology,5th emester, studying in Dhaka Polytechnic Institute. I am currently learning freelancing. I have good knowledge in Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Canvas Design, Facebook Marketing, LinkedIn Marketing etc.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
